@@ -9,6 +9,8 @@ public class DebugDemo {
             resultado *= i; // Aquí se calcula el factorial fghhfg
         }
         return resultado;
+        
+        // NUeva adición
     }
 
     // Método para llenar un arreglo con números del 1 al tamaño del arreglo
