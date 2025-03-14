@@ -3,6 +3,8 @@ import java.util.Scanner;
 public class DebugDemo {
 
     // Método para calcular el factorial de un número
+	
+	//kfdlsñfkñsdfkñsdfk
     public static int factorial(int n) {
         int resultado = 1;
         for (int i = 1; i <= n; i++) {
