@@ -8,6 +8,7 @@ public class DebugDemo {
     public static int factorial(int n) {
         int resultado = 1;
         for (int i = 1; i <= n; i++) {
+        	//xfsdfs
             resultado *= i; // Aquí se calcula el factorial fghhfg
         }
         return resultado;
